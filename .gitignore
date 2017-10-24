@@ -1,0 +1,4 @@
+# ignore all temp files
+._*.*
+# ignore mac specific files
+.DS_Store
